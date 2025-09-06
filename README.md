@@ -5,8 +5,10 @@
 ---
 
 #### Welcome to my GitHub
-
-My name is Salvatore Greco and I'm a Systems Analyst and Freelance Software Developer.
+<div>
+    <img src="assets/octocat-1757175370057.png" align="right" width="25%">
+    My name is Salvatore Greco and I'm a Systems Analyst and Freelance Software Developer.
+</div>
 
 ---
 
@@ -28,12 +30,10 @@ My name is Salvatore Greco and I'm a Systems Analyst and Freelance Software Deve
 ![Trophies](https://github-profile-trophy.vercel.app/?username=GrecoSorcerer&theme=merko&no-frame=true&no-bg=true&margin-w=15)
 
 </div>
-
 </details>
 
 <details>
 <summary><h3>Skills</summary>
-
 <table>
   <tr>
     <td valign="top"><b>Programming Languages</b></td>
@@ -104,10 +104,12 @@ My name is Salvatore Greco and I'm a Systems Analyst and Freelance Software Deve
     </td>
   </tr>
 </table>
-
 </details>
 
+<br clear="right">
+
 ---
+
 <div align="center">
 <a href="https://pledge-of-the-computing-professional.org/" target="_blank">
 <img src="https://pledge-of-the-computing-professional.org/wp-content/uploads/2016/08/Pledge_Symbol_Gradient_small.jpg" width="50" />
